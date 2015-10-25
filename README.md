@@ -7,4 +7,7 @@ The samples in this repo are bare-bones samples contain only the minimal amount 
 This is to make it easier to understand what is actually required to achieve certain functionality.
 
 ## Samples
-- BackButton
+Briefly describe each sample.
+
+### BackButton
+This sample shows what you need to do to enable the back button provided by the system.
